@@ -250,11 +250,11 @@ el : '#app' 和  el : document.getElementById("app")  这两种写法都可以�
 
 #### 2.3解决控制台上的提示信息和错误信息
 
-![image-20230714112458535](C:\Users\fengshun\Desktop\自学\Vue\视屏\image-20230714112458535.png)
+![image-20230714112458535](.\视屏\image-20230714112458535.png)
 
 
 
-<img src="C:\Users\fengshun\Desktop\自学\Vue\视屏\image-20230714113406329.png" alt="image-20230714113406329" style="zoom:67%;" />
+<img src=".\视屏\image-20230714113406329.png" alt="image-20230714113406329" style="zoom:67%;" />
 
 
 
